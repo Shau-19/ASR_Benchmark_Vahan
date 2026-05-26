@@ -1,0 +1,3 @@
+model,avg_wer,avg_cer,entity_exact_pct,entity_fuzzy_pct,num_samples
+whisper-large-v3,1.083,0.86,4.2,4.2,24
+vakyansh,1.013,0.927,0.0,0.0,24

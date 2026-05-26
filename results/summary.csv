@@ -1,0 +1,4 @@
+model,avg_wer,avg_cer,entity_exact_pct,entity_fuzzy_pct,n_samples
+deepgram-nova-2,0.856,0.633,16.7,20.8,24
+whisper-1,1.066,0.828,4.2,4.2,24
+sarvam-saarika-v2,1.067,0.854,0.0,0.0,24
